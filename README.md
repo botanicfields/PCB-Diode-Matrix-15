@@ -1,11 +1,12 @@
 # PCB-Diode-Matrix-Switch-16
 
 # ダイオードマトリクススイッチ16基板
-タクトスイッチで、4ビットのデータパターンを生成するダイオードマトリクス基板（未実装）です。
+タクトスイッチで4ビットのデータパターンを生成するダイオードマトリクス基板（未実装）です。
+AquesTalk pico LSI のスタンドアロンモードの制御に使用できます。
 
 ## 1. 特徴
 - タクトスイッチを押すと、ダイオードを実装したデータラインがGNDレベル"0"になります。
-- AquesTalk pico LSI のスタンドアロンモードでのスイッチ操作に使用できます。
+- AquesTalk pico LSI のスタンドアロンモードで、15種類の音声をスイッチ操作で再生できます。
 - 全てのタクトスイッチにダイオード4本分のランドがあり、データパターンをカスタマイズできます。
 - リード線タイプの一般的なスイッチング用ダイオード（1N4148など）を使用できます。
 - 6mmサイズの一般的なタクトスイッチを使用できます。
@@ -24,4 +25,8 @@
 <img src="./image/front.JPG" width=300> <img src="./image/back.JPG" width=300>
 
 ## 4. 使用例
-[GitHub: botanicfields/PCB-MBUS-AquesTalk-pico-LSI](https://github.com/botanicfields/PCB-MBUS-AquesTalk-pico-LSI)
+- [GitHub: botanicfields/PCB-MBUS-AquesTalk-pico-LSI](https://github.com/botanicfields/PCB-MBUS-AquesTalk-pico-LSI)
+- [GitHub: botanicfields/PCB-Grove-AquesTalk-pico-LSI](https://github.com/botanicfields/PCB-Grove-AquesTalk-pico-LSI)
+
+<img src="./image/socket3.JPG" width=300> <img src="./image/standalone.JPG" width=300>
+
