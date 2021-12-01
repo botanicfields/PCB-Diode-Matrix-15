@@ -5,13 +5,15 @@
 AquesTalk pico LSI のスタンドアロンモードの制御に使用できます。
 
 ### 委託販売
-（スイッチサイエンス扱い）[ ダイオードマトリクススイッチ16基板](https://www.switch-science.com/7626)
+（スイッチサイエンス扱い）[ダイオードマトリクススイッチ16基板](https://www.switch-science.com/catalog/7626/)
 
 ### 動作例
 （YouTube）[Diode Matrix Switch 16 & AquesTalk pico LSI](https://youtu.be/Nlrulnu14eA)  
 
 ### 関連製品
+（スイッチサイエンス扱い）[M5Stack用 AquesTalk pico LSIモジュール基板](https://www.switch-science.com/catalog/7624/)  
 （GitHub）[botanicfields/PCB-MBUS-AquesTalk-pico-LSI](https://github.com/botanicfields/PCB-MBUS-AquesTalk-pico-LSI)  
+（スイッチサイエンス扱い）[AquesTalk pico LSI用Grove(M5)接続基板](https://www.switch-science.com/catalog/7625/)  
 （GitHub）[botanicfields/PCB-Grove-AquesTalk-pico-LSI](https://github.com/botanicfields/PCB-Grove-AquesTalk-pico-LSI)  
 
 <img src="./image/socket3.JPG" width=300> <img src="./image/standalone.JPG" width=300>
